@@ -63,9 +63,9 @@ It is organized **topic-wise** to make learning easy and track progress.
 
 ## 🌟 Progress Checklist
 
--  01_basics  
--  02_branching  
--  03_remote  
--  04_advanced  
--  practice  
--  commands_cheatsheet
+- [x] 01_basics  
+- [x] 02_branching  
+- [ ] 03_remote  
+- [ ] 04_advanced  
+- [ ] practice  
+- [x] commands_cheatsheet
